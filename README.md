@@ -1,2 +1,3 @@
 # bookbot
-BookBot is my first project!
+Bookbot project for Boot.dev
+Katherine Anderson

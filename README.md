@@ -1,3 +1,5 @@
 # bookbot
+
 Bookbot project for Boot.dev
-Katherine Anderson
+
+Usage: `python3 main.py <path_to_book>`
